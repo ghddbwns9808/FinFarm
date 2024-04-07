@@ -89,7 +89,6 @@ CSS 프레임워크: Tailwindcss 3.4.1
 ![Static Badge](https://img.shields.io/badge/Gradle-%2302303A?style=flat&logo=gradle&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/nGrinder-%23fc8e01?style=flat&logo=nGrinder&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/sonarqube-%234E9BCD?style=flat&logo=sonarqube&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=Python&logoColor=white)
 
 
 개발언어: Java, Jbr 17 
@@ -111,6 +110,30 @@ IDE: IntelliJ IDEA 2023.2.5
 | Spring Security | 6.2.2 ver   | Apache License 2.0 |
 | Redis           | 3.2.3 ver   | Apache License 2.0 |
 | Lombok          | 1.18.30 ver | MIT License        |
+
+### 🖥️ AI 개발 환경
+
+![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=Python&logoColor=white)
+![Static Badge](https://img.shields.io/badge/MySql-%234479A1?style=flat&logo=mysql&logoColor=white)
+![Static Badge](https://img.shields.io/badge/fastapi-%23009688?style=flat&logo=fastapi&logoColor=white)
+![Static Badge](https://img.shields.io/badge/uvicorn-%23499848?style=flat&logo=gunicorn&logoColor=white)
+![Static Badge](https://img.shields.io/badge/openai-%230081A5?style=flat&logo=openai&logoColor=white)
+
+개발언어: Python 3.12
+
+프레임워크: FastAPI: 0.110.0
+
+IDE: VS Code 1.86.2
+
+
+### 📖 AI 라이브러리 및 외부 API 사용
+
+| Name            | Version     | License            |
+| --------------- | ----------- | ------------------ |
+| OpenAI          | 1.12.0 ver   | MIT License |
+| pymysql  | 1.1.0 ver  | MIT License   |
+| pydantic       | 2.2.1 ver   | MIT License   |
+
 
 ### 🖥️ 공통 스킬
 
